@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./disputatiohisto02gehlgoog_0010.png"; bbox 0 0 2922 5195; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1678 4131 2588 4172">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1678 4131 2588 4172">
+     <span class='ocr_line' id='line_1_1' title="bbox 1678 4131 2588 4172; baseline 0.003 -4"><span class='ocrx_word' id='word_1_1' title='bbox 1678 4133 1744 4169; x_wconf 66' lang='grc' dir='ltr'><strong>ΒΧ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1770 4131 2176 4171; x_wconf 67' lang='grc' dir='ltr'><strong>ΤΥΡΟΕΒΛΡΗΕΟ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2202 4136 2242 4172; x_wconf 88' lang='lat' dir='ltr'><strong>J.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2275 4133 2331 4172; x_wconf 85' lang='lat' dir='ltr'><strong>G.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2359 4134 2423 4170; x_wconf 72' lang='lat' dir='ltr'><strong>LA</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2463 4132 2588 4171; x_wconf 75' lang='lat' dir='ltr'><strong>LAU.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
